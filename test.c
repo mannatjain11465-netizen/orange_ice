@@ -1,4 +1,2 @@
-#include<stdio.h>
-int main(){
-    printf("We are Charlie Kine");
-}
+Mannat Jain
+IIT2025262
